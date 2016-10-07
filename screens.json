@@ -1,0 +1,9 @@
+[{
+  "id": "my-screen",
+  "chambers": [{
+    "id": "chamber1",
+    "js": "myChamber.js",
+    "autorun": true,
+    "focus": true
+  }]
+}]

@@ -1,0 +1,13 @@
+{
+    "id"          : "sdk.test.tabbedlistchamber",
+    "name"        : "Tabbed List Chamber",
+    "css"         : [ "appStylesheet.css" ],
+    "view"        : "appView.js",
+    "permissions" : [  ],
+    "categoryId"  : "WORKSPACE",
+    "delay"       : 50,
+    "date"        : "2016-08-05",
+    "version"     : "1.0.0",
+    "screens"     : "screens.json"
+
+}

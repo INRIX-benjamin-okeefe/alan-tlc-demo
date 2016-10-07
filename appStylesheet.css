@@ -1,0 +1,17 @@
+#chamber2a{
+    width: 50%;
+    left: 0;
+}
+#chamber2b{
+    width: 50%;
+    right: 0;
+}
+.red-text {
+    color: red !important;
+}
+.red-text.selected span {
+    color: orangered !important;
+}
+#flagged-item span {
+    color: green;
+}
